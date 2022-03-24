@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/location-vacances/static/css/main.7d922a14.chunk.css",
+    "main.js": "/location-vacances/static/js/main.c43284b2.chunk.js",
+    "main.js.map": "/location-vacances/static/js/main.c43284b2.chunk.js.map",
+    "runtime-main.js": "/location-vacances/static/js/runtime-main.d99f75e0.js",
+    "runtime-main.js.map": "/location-vacances/static/js/runtime-main.d99f75e0.js.map",
+    "static/js/2.06731882.chunk.js": "/location-vacances/static/js/2.06731882.chunk.js",
+    "static/js/2.06731882.chunk.js.map": "/location-vacances/static/js/2.06731882.chunk.js.map",
+    "static/js/3.f785f213.chunk.js": "/location-vacances/static/js/3.f785f213.chunk.js",
+    "static/js/3.f785f213.chunk.js.map": "/location-vacances/static/js/3.f785f213.chunk.js.map",
+    "index.html": "/location-vacances/index.html",
+    "static/css/main.7d922a14.chunk.css.map": "/location-vacances/static/css/main.7d922a14.chunk.css.map",
+    "static/js/2.06731882.chunk.js.LICENSE.txt": "/location-vacances/static/js/2.06731882.chunk.js.LICENSE.txt",
+    "static/media/AboutLogo.02e1c4f7.png": "/location-vacances/static/media/AboutLogo.02e1c4f7.png",
+    "static/media/ArrowNext.88153a5d.svg": "/location-vacances/static/media/ArrowNext.88153a5d.svg",
+    "static/media/FooterLogo.ee689fd9.svg": "/location-vacances/static/media/FooterLogo.ee689fd9.svg",
+    "static/media/HeaderLogo.a6101328.svg": "/location-vacances/static/media/HeaderLogo.a6101328.svg",
+    "static/media/HomeLogo.024f945a.png": "/location-vacances/static/media/HomeLogo.024f945a.png",
+    "static/media/StarEmpty.7e4ba603.svg": "/location-vacances/static/media/StarEmpty.7e4ba603.svg",
+    "static/media/StarFull.6430150c.svg": "/location-vacances/static/media/StarFull.6430150c.svg",
+    "static/media/Vector.b052dd29.svg": "/location-vacances/static/media/Vector.b052dd29.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d99f75e0.js",
+    "static/js/2.06731882.chunk.js",
+    "static/css/main.7d922a14.chunk.css",
+    "static/js/main.c43284b2.chunk.js"
+  ]
+}
