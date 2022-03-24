@@ -203,6 +203,7 @@ export class Location extends Component {
         /* ======================== COMMENT LE RETURN POUR LE DEPLOIEMENT DU SITE SUR GH PAGES & ON REMPLACE DATA CI-DESSOUS PAR LOCATIONDATA ================== */
         // const data = this.state.dataLocation
         const data = locationData
+        console.log(data)
 
         // if (this.state.error) {
         //     return <Error />
